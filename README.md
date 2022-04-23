@@ -1,7 +1,7 @@
 # [ButtBot documentation](https://discord.com/api/oauth2/authorize?client_id=964549100517355612&permissions=8&scope=bot%20applications.commands)
 
-* [Add the bot](https://discord.com/api/oauth2/authorize?client_id=964549100517355612&permissions=8&scope=bot%20applications.commands)
-* [Creators Discord server](https://discord.gg/srztnVHVhU)
+* Add the bot : [https://discord.com/api/...](https://discord.com/api/oauth2/authorize?client_id=964549100517355612&permissions=8&scope=bot%20applications.commands)
+* Creators Discord server : [https://discord.gg/srztnVHVhU](https://discord.gg/srztnVHVhU)
 
 |Command|Description|
 |-------|-----------|
