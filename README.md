@@ -1,4 +1,4 @@
-# [MEE6 documentation](https://discord.com/api/oauth2/authorize?client_id=964549100517355612&permissions=8&scope=bot%20applications.commands)
+# [ButtBot documentation](https://discord.com/api/oauth2/authorize?client_id=964549100517355612&permissions=8&scope=bot%20applications.commands)
 
 * [Add the bot](https://discord.com/api/oauth2/authorize?client_id=964549100517355612&permissions=8&scope=bot%20applications.commands)
 * [Creators Discord server](https://discord.gg/srztnVHVhU)
